@@ -1,0 +1,126 @@
+{
+  "region": "se",
+  "documents": [
+    {
+      "name": "analytics",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://static.homesmart.ikea.com/documents/sv-se-cookie-policy.html",
+          "version": 230920,
+          "labels": {
+            "COOKIES_ANALYTICS_INTRODUCTION": "Vi, IKEA of Sweden AB, strävar alltid efter att förbättra IKEA Home smart System och Applikation för att ge dig och andra användare bästa möjliga upplevelse",
+            "COOKIES_ANALYTICS_CONSENT_TEXT": "Ja, jag samtycker till IKEA:s användning av cookies och analys av personuppgifter för att förbättra IKEA Home smart System och Applikation",
+            "COOKIES_ANALYTICS_NO_CONSENT_TEXT": "Nej, jag samtycker inte till IKEA:s användning av cookies och analys av personuppgifter för att förbättra IKEA Home smart System och Applikation",
+            "COOKIES_ANALYTICS_TEXT": "Observera att valet du gör ovan, dvs. att samtycka eller att avstå från att ge ditt samtycke, kommer att gälla för alla andra som använder samma IKEA Home smart System som du.\n\nDet är frivilligt att ge ett samtycke. Om du samtycker, observera att du när som helst kan återkalla ditt samtycke i IKEA Home smart Applikationen under dina sekretessinställningar. Återkallandet av samtycket påverkar inte lagligheten av behandling som grundar sig på samtycket innan det återkallades.\n\nNär du använder IKEA Home smart System och IKEA Home smart Applikation behandlar IKEA även andra personuppgifter om dig och använder cookies för funktionaliteten i Home smart System och Applikation. Här kan du kan läsa mer om hur vi använder cookies [2]. Här kan du läsa mer om hur vi behandlar dina personuppgifter och dina andra rättigheter i förhållande till vår behandling [1] (rätt till tillgång, rätt till rättelse, rätt till radering, rätt till begränsning, rätt till dataportabilitet och rätt att klaga på vår behandling till Integritetsskyddsmyndigheten [4]).",
+            "COOKIES_ANALYTICS_MORE_TEXT": "Om du ger ditt samtycke kommer vi att samla in och analysera information om din IP-adress, geografiska plats (endast på aggregerad nivå och inte exakt adress) och information om hur du använder IKEA Home smart System och Applikation, t.ex. vilka funktioner du aktiverar i systemet samt din användning av funktionerna (t.ex. om du slår på en ansluten lampa) och vad du klickar på i IKEA Home smart Applikationen.\n\nVi kommer att utföra analysen med hjälp av analystjänst från Google [3] (dvs. Google Firebase Analytics inklusive Google Analytics). Google överför dina personuppgifter utanför EU till USA. Dina personuppgifter skyddas inte utanför EU i samma utsträckning som inom, det är därför en risk att dina rättigheter kränks. Vi strävar efter att begränsa denna risk genom att t.ex. pseudonymisera dina personuppgifter.",
+            "READ_PRIVACY_STATEMENT_TITLE": "[1] Läs Integritetsmeddelande",
+            "READ_COOKIE_POLICY_TITLE": "[2] Läs Cookiepolicy",
+            "GOOGLE_LINK_TITLE": "[3] Google",
+            "SUPERVISORY_AUTHORITY_TITLE": "[4] Tillsynsmyndigheten"
+          }
+        }
+      ],
+      "analyticsDisabled": false,
+      "reapproveConsentAfterDays": 365,
+      "forcedUpdate": false
+    },
+    {
+      "name": "privacy",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://static.homesmart.ikea.com/documents/sv-se-privacy-policy.html",
+          "version": 231018,
+          "labels": {
+            "PRIVACY_STATEMENT_TEXT": "<b>Tack för att du anförtror IKEA of Sweden AB med dina personuppgifter</b><br><br>När du använder ett IKEA Home smart System för att styra smarta produkter genererar det personuppgifter som vi hanterar. Vi är fast beslutna att skydda din integritet och att vara transparenta med hur vi hanterar dina uppgifter.<br><br>Vi förlitar oss på cookies och annan teknik för att samla in personuppgifter, som beskrivs i vår cookiepolicy.<br><br><b>Vi använder dina personuppgifter för att</b><br><br>•\tFå Systemet och Applikationen att fungera korrekt<br>•\tLåta dig styra Systemet utanför ditt hem med hjälp av Applikationen<br>•\tLåta dig styra Systemet på flera enheter med hjälp av Applikationen<br>•\tGöra det möjligt för dig att spara och justera dina favoritscener<br>•\tGe dig support angående Systemet och Applikationen<br>•\tAnalysera hur Systemet och Applikationen används för att göra förbättringar baserat på insikter<br>•\tSkicka push-notiser om Systemet<br>•\tGöra det möjligt för dig att ansluta Systemet till smarta produkter från tredje part, som Google Home, Amazon Alexa och Apple HomeKit<br>•\tGöra att du kan ansluta Systemet till dina högtalare från Sonos<br><br><b>Du är naturligtvis inte skyldig att lämna dina personuppgifter till oss</b><br><br>Du behöver inte tillåta oss att använda dina personuppgifter, men om du vill använda vissa funktioner i Systemet och Applikationen behöver vi vissa personuppgifter om dig för att få det att fungera på ett säkert och tillfredsställande sätt.<br><br>Du har rättigheter angående dina personuppgifter och vi kan hjälpa dig att förstå hur du utövar dem.<br><br><b>Du har rätt att</b><br><br>•\tÅterkalla ditt samtycke när som helst, när tillämpbart<br>•\tFå tillgång till de personuppgifter vi hanterar om dig<br>•\tRätta de personuppgifter som kan vara felaktiga<br>•\tRadera de personuppgifter som vi har om dig<br>•\tBegränsa de personuppgifter som vi hanterar om dig <br>•\tDataportabilitet<br>•\tInvända mot vår hantering av dina personuppgifter<br>•\tLämna in ett klagomål till behörig myndighet<br><br>Dessa rättigheter gäller i Sverige där vi finns, men vi har utvidgat dem till alla länder eftersom vi anser att de är universella.<br><br><b>Vår vision är att skapa en bättre vardag för många människor. Det är ett stort jobb som vi på IKEA tar på allvar.</b><br><br>För att lära dig mer om hur vi hanterar dina personuppgifter och dina rättigheter, vänligen läs vår Integritetmeddelande [1].",
+            "READ_PRIVACY_STATEMENT_TITLE": "[1] Läs Integritetsmeddelande",
+            "PRIVACY_STATEMENT_CONSENT_TEXT": "Ja, jag samtycker till insamling, användning och avslöjande av mina personuppgifter enligt beskrivningen i sekretesspolicyn [1].",
+            "PRIVACY_STATEMENT_IOS_TEXT": "**Tack för att du anförtror IKEA of Sweden AB med dina personuppgifter**\n\nNär du använder ett IKEA Home smart System för att styra smarta produkter genererar det personuppgifter som vi hanterar. Vi är fast beslutna att skydda din integritet och att vara transparenta med hur vi hanterar dina uppgifter.\n\nVi förlitar oss på cookies och annan teknik för att samla in personuppgifter, som beskrivs i vår cookiepolicy.\n\n**Vi använder dina personuppgifter för att**\n\n•\tFå Systemet och Applikationen att fungera korrekt\n•\tLåta dig styra Systemet utanför ditt hem med hjälp av Applikationen\n•\tLåta dig styra Systemet på flera enheter med hjälp av Applikationen\n•\tGöra det möjligt för dig att spara och justera dina favoritscener\n•\tGe dig support angående Systemet och Applikationen\n•\tAnalysera hur Systemet och Applikationen används för att göra förbättringar baserat på insikter\n•\tSkicka push-notiser om Systemet\n•\tGöra det möjligt för dig att ansluta Systemet till smarta produkter från tredje part, som Google Home, Amazon Alexa och Apple HomeKit\n•\tGöra att du kan ansluta Systemet till dina högtalare från Sonos\n\n**Du är naturligtvis inte skyldig att lämna dina personuppgifter till oss**\n\nDu behöver inte tillåta oss att använda dina personuppgifter, men om du vill använda vissa funktioner i Systemet och Applikationen behöver vi vissa personuppgifter om dig för att få det att fungera på ett säkert och tillfredsställande sätt.\n\nDu har rättigheter angående dina personuppgifter och vi kan hjälpa dig att förstå hur du utövar dem.\n\n**Du har rätt att**\n\n•\tÅterkalla ditt samtycke när som helst, när tillämpbart\n•\tFå tillgång till de personuppgifter vi hanterar om dig\n•\tRätta de personuppgifter som kan vara felaktiga\n•\tRadera de personuppgifter som vi har om dig\n•\tBegränsa de personuppgifter som vi hanterar om dig \n•\tDataportabilitet\n•\tInvända mot vår hantering av dina personuppgifter\n•\tLämna in ett klagomål till behörig myndighet\n\nDessa rättigheter gäller i Sverige där vi finns, men vi har utvidgat dem till alla länder eftersom vi anser att de är universella.\n\n**Vår vision är att skapa en bättre vardag för många människor. Det är ett stort jobb som vi på IKEA tar på allvar.**\n\nFör att lära dig mer om hur vi hanterar dina personuppgifter och dina rättigheter, vänligen läs vår Integritetmeddelande [1]."
+          }
+        }
+      ],
+      "consentRequired": false,
+      "forcedUpdate": true
+    },
+    {
+      "name": "tc-apple",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://static.homesmart.ikea.com/documents/sv-se-terms-and-conditions-app-store.html",
+          "version": 231018
+        }
+      ],
+      "forcedUpdate": true
+    },
+    {
+      "name": "tc-google",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://static.homesmart.ikea.com/documents/sv-se-terms-and-conditions-google-play-store.html",
+          "version": 230920
+        }
+      ],
+      "forcedUpdate": false
+    },
+    {
+      "name": "contact",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://www.ikea.com/se/sv/customer-service/contact-us",
+          "version": 230920
+        }
+      ]
+    },
+    {
+      "name": "homesmart-community",
+      "defaultLanguage": "en",
+      "languages": [
+        {
+          "link": "https://uk.forum.ikea.com/t5/home-smart/bd-p/HomeSmartAskCommunity",
+          "code": "en"
+        }
+      ]
+    },
+    {
+      "name": "faq",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://www.ikea.com/se/sv/customer-service/product-support/smart-home-dirigera-hub",
+          "version": 230920
+        }
+      ]
+    },
+    {
+      "name": "supervisory",
+      "defaultLanguage": "sv",
+      "languages": [
+        {
+          "code": "sv",
+          "link": "https://www.imy.se/en/",
+          "version": 230920
+        }
+      ]
+    },
+    {
+      "name": "google-analytics",
+      "defaultLanguage": "en",
+      "languages": [
+        {
+          "link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage",
+          "code": "en"
+        }
+      ]
+    }
+  ]
+}
