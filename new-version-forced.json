@@ -33,7 +33,7 @@
         {
           "code": "sv",
           "link": "https://static.homesmart.ikea.com/documents/sv-se-privacy-policy.html",
-          "version": 231018,
+          "version": 230920,
           "labels": {
             "PRIVACY_STATEMENT_TEXT": "<b>Tack för att du anförtror IKEA of Sweden AB med dina personuppgifter</b><br><br>När du använder ett IKEA Home smart System för att styra smarta produkter genererar det personuppgifter som vi hanterar. Vi är fast beslutna att skydda din integritet och att vara transparenta med hur vi hanterar dina uppgifter.<br><br>Vi förlitar oss på cookies och annan teknik för att samla in personuppgifter, som beskrivs i vår cookiepolicy.<br><br><b>Vi använder dina personuppgifter för att</b><br><br>•\tFå Systemet och Applikationen att fungera korrekt<br>•\tLåta dig styra Systemet utanför ditt hem med hjälp av Applikationen<br>•\tLåta dig styra Systemet på flera enheter med hjälp av Applikationen<br>•\tGöra det möjligt för dig att spara och justera dina favoritscener<br>•\tGe dig support angående Systemet och Applikationen<br>•\tAnalysera hur Systemet och Applikationen används för att göra förbättringar baserat på insikter<br>•\tSkicka push-notiser om Systemet<br>•\tGöra det möjligt för dig att ansluta Systemet till smarta produkter från tredje part, som Google Home, Amazon Alexa och Apple HomeKit<br>•\tGöra att du kan ansluta Systemet till dina högtalare från Sonos<br><br><b>Du är naturligtvis inte skyldig att lämna dina personuppgifter till oss</b><br><br>Du behöver inte tillåta oss att använda dina personuppgifter, men om du vill använda vissa funktioner i Systemet och Applikationen behöver vi vissa personuppgifter om dig för att få det att fungera på ett säkert och tillfredsställande sätt.<br><br>Du har rättigheter angående dina personuppgifter och vi kan hjälpa dig att förstå hur du utövar dem.<br><br><b>Du har rätt att</b><br><br>•\tÅterkalla ditt samtycke när som helst, när tillämpbart<br>•\tFå tillgång till de personuppgifter vi hanterar om dig<br>•\tRätta de personuppgifter som kan vara felaktiga<br>•\tRadera de personuppgifter som vi har om dig<br>•\tBegränsa de personuppgifter som vi hanterar om dig <br>•\tDataportabilitet<br>•\tInvända mot vår hantering av dina personuppgifter<br>•\tLämna in ett klagomål till behörig myndighet<br><br>Dessa rättigheter gäller i Sverige där vi finns, men vi har utvidgat dem till alla länder eftersom vi anser att de är universella.<br><br><b>Vår vision är att skapa en bättre vardag för många människor. Det är ett stort jobb som vi på IKEA tar på allvar.</b><br><br>För att lära dig mer om hur vi hanterar dina personuppgifter och dina rättigheter, vänligen läs vår Integritetmeddelande [1].",
             "READ_PRIVACY_STATEMENT_TITLE": "[1] Läs Integritetsmeddelande",
@@ -43,7 +43,7 @@
         }
       ],
       "consentRequired": false,
-      "forcedUpdate": true
+      "forcedUpdate": false
     },
     {
       "name": "tc-apple",
@@ -52,7 +52,7 @@
         {
           "code": "sv",
           "link": "https://static.homesmart.ikea.com/documents/sv-se-terms-and-conditions-app-store.html",
-          "version": 231018
+          "version": 231020
         }
       ],
       "forcedUpdate": true
